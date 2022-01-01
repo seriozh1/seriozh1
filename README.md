@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Sergei
 
 <!--
-**IISergeyII/IISergeyII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sactive4/Sactive4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IISergeyII&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sactive4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IISergeyII&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://iisergeyii.github.io/Personal_WebSite/"><img src="https://img.shields.io/badge/-Personal Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>   </a>
+  <a href="https://ыactive4.github.io"><img src="https://img.shields.io/badge/-Personal Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>   </a>
   <a href="https://www.linkedin.com/in/sergei-smirnov-2a223a1b8/"><img src="https://img.shields.io/badge/-Sergei%20Smirnov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://t.me/seriozh1"><img src="https://img.shields.io/badge/-@seriozh1-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
   <a href="mailto:sergey.2123@yandex.ru"><img src="https://img.shields.io/badge/-sergey.2123@yandex.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
