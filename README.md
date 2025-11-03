@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p align="center">
    <!-- <a href="https://sactive4.github.io"><img src="https://img.shields.io/badge/-Personal Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>   </a> -->
-  <a href="https://www.linkedin.com/in/seriozh1/"><img src="https://img.shields.io/badge/-LinedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/seriozh1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://t.me/seriozh1"><img src="https://img.shields.io/badge/-@seriozh1-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
   <a href="mailto:mg1sergey@gmail.com"><img src="https://img.shields.io/badge/-mg1sergey@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
