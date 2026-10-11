@@ -1,6 +1,6 @@
 ### Sergei Smirnov
 
-Doctoral researcher at the University of Helsinki working on empirical AI safety.
+AI safety research engineer | Doctoral researcher at the University of Helsinki.
 
 I focus on LLM evaluations and benchmarks, agentic misalignment, and the reliability of model reasoning. See the pinned repositories below for selected work.
 
