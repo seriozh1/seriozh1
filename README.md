@@ -1,8 +1,8 @@
 ### Sergei Smirnov
 
-AI safety research engineer | Doctoral researcher at the University of Helsinki.
+AI Safety Researcher | Founding Research Scientist at Cedar Research | PhD researcher at the University of Helsinki.
 
-I focus on LLM evaluations and benchmarks, agentic misalignment, and the reliability of model reasoning.
+I work on AI character evaluation: measuring the character and values of frontier models and testing whether they predict misaligned behavior.
 
 **Open to research collaborations.** If you're working on something related, feel free to reach out.
 
